@@ -1,7 +1,7 @@
 # node-red-contrib-google-translate
 Node-RED node for Google Translate
 
-Based on <a href="https://docs.google.com/document/d/1-u4NCOYyxIXPpTfNG80VFLfLIHYT89ZIPQh4qhgjoRw/edit">This package</a>
+Based on <a href="https://www.npmjs.com/package/node-red-contrib-google-translate">This package    </a>
 
 Install
 -------
