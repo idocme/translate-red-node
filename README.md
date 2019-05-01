@@ -1,6 +1,8 @@
 # node-red-contrib-google-translate-fixed
 Node-RED node for Google Translate
 
+Now you can choose the language using the payload!
+
 Based on <a href="https://www.npmjs.com/package/node-red-contrib-google-translate">This package    </a>
 
 Install
@@ -23,8 +25,8 @@ Usage
 -------
 Translate from German to English. This will result poision.
 
-msg.payload.from = 'en';</br>
-msg.payload.to = 'de';</br>
+msg.payload.to = 'en';</br>
+msg.payload.from = 'de';</br>
 msg.payload.phrase = 'gift';</br>
 
 
