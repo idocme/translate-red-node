@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zuhito/node-red-contrib-google-translate.git"
+    "url": "git+https://github.com/idocme/translate-red-node.git"
   },
   "keywords": [
     "node-red",
@@ -27,7 +27,7 @@
   "author": "zuhito,idocoh",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/zuhito/node-red-contrib-google-translate/issues"
+    "url": "https://github.com/idocme/translate-red-node/issues"
   },
-  "homepage": "https://github.com/zuhito/node-red-contrib-google-translate#readme"
+  "homepage": "https://github.com/idocme/translate-red-node#readme"
 }
