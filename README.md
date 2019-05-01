@@ -23,9 +23,9 @@ Usage
 -------
 Translate from German to English. This will result poision.
 
-msg.payload.from = 'en';
-msg.payload.to = 'de';
-msg.payload.phrase = 'gift';
+msg.payload.from = 'en';</br>
+msg.payload.to = 'de';</br>
+msg.payload.phrase = 'gift';</br>
 
 
 
