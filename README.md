@@ -1,4 +1,4 @@
-# node-red-contrib-google-translate
+# node-red-contrib-google-translate-fixed
 Node-RED node for Google Translate
 
 Based on <a href="https://www.npmjs.com/package/node-red-contrib-google-translate">This package    </a>
