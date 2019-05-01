@@ -1,6 +1,8 @@
 # node-red-contrib-google-translate
 Node-RED node for Google Translate
 
+Based on <a href="https://docs.google.com/document/d/1-u4NCOYyxIXPpTfNG80VFLfLIHYT89ZIPQh4qhgjoRw/edit">This package</a>
+
 Install
 -------
 Run the following command in your Node-RED user directory - typically `~/.node-red`
