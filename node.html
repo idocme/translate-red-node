@@ -2,9 +2,9 @@
     <div class="form-row">
         <label for="node-input-from"><i class="fa fa-book"></i>From Language</label>
         <select type="text" id="node-input-from">
-            <option value='prog' selected>Set msg.from</option>
             <option value='auto' selected>Auto Detect</option>
-            <option value='en' selected>English</option>
+            <option value='prog'>Set msg.from</option>
+            <option value='en'>English</option>
             <option value='ja'>Japanese</option>
             <option value='de'>German</option>
             <option value='fr'>French</option>
@@ -242,8 +242,9 @@
     RED.nodes.registerType('google-translate', {
         category: 'function',
         defaults: {
+            from: {value: 'auto', required: true},
             name: { value: "" },
-            to: { value:"en", required: true }
+            to: { value:"en", required: true },
         },
         inputs: 1,
         outputs: 1,
